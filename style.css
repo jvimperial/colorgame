@@ -1,0 +1,176 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: #F2E7D5;
+    font-family: "Montserrat";
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+    color: #F7F7F7;
+    font-family: "Roboto Condensed";
+}
+.button1Red{
+    background-color: red;
+    font-size: 70px;
+    color: red;
+    margin: 4px 2px;
+    cursor: pointer;
+    padding: 15px 32px;
+    width: 200px;
+    height: 150px;
+    border: none;
+    position: absolute;
+    right: 1060px;
+}
+.button2Blue{
+    background-color: blue;
+    font-size: 70px;
+    color: blue;
+    margin: 4px 2px;
+    cursor: pointer;
+    padding: 15px 32px;
+    width: 200px;
+    height: 150px;
+    border: none;
+    position: absolute;
+    right: 855px;
+}
+.button3Green{
+    background-color: green;
+    font-size: 70px;
+    color: green;
+    margin: 4px 2px;
+    cursor: pointer;
+    padding: 15px 32px;
+    width: 200px;
+    height: 150px;
+    border: none;
+    position: absolute;
+    right: 650px;
+}
+.button4Yellow{
+    background-color: yellow;
+    font-size: 70px;
+    color: yellow;
+    margin: 4px 2px;
+    cursor: pointer;
+    padding: 15px 32px;
+    width: 200px;
+    height: 150px;
+    border: none;
+    position: absolute;
+    right: 1060px;
+    bottom: 415px;
+}
+.button5White{
+    background-color: white;
+    font-size: 70px;
+    color: white;
+    margin: 4px 2px;
+    cursor: pointer;
+    padding: 15px 32px;
+    width: 200px;
+    height: 150px;
+    border: none;
+    position: absolute;
+    right: 855px;
+    bottom: 415px;
+}
+.button6Pink{
+    background-color: pink;
+    font-size: 70px;
+    color: pink;
+    margin: 4px 2px;
+    cursor: pointer;
+    padding: 15px 32px;
+    width: 200px;
+    height: 150px;
+    border: none;
+    position: absolute;
+    right: 650px;
+    bottom: 415px;
+}
+.userChoice{
+    font-size: 50px;
+    text-align: justify;
+    color: #F7F7F7;
+    font-family: "Roboto Condensed";
+    position: absolute;
+    bottom: 350px;
+    left: 659px;
+}
+.userbetInput{
+    font-size: 45px;
+    position: absolute;
+    bottom: 290px;
+    left: 659px;
+}
+.buttonSubmitBet{
+    background-color: #F2E7D5;
+    color: #393E46;
+    font-family: "Roboto Condensed";
+    font-size: 30px;
+    position: absolute;
+    border: none;
+    left: 659px;
+    bottom: 240px;
+    cursor: pointer;
+}
+.userbetShow{
+    font-size: 30px;
+    text-align: justify;
+    color: #F7F7F7;
+    font-family: "Roboto Condensed";
+    position: absolute;
+    bottom: 240px;
+    left: 830px;
+}
+.buttonRoll{
+    background-color: #F2E7D5;
+    color: #393E46;
+    font-family: "Roboto Condensed";
+    font-size: 30px;
+    position: absolute;
+    border: none;
+    left: 659px;
+    bottom: 190px;
+    cursor: pointer;
+    width: 563px;
+}
+.color1Label{
+    font-size: 40px;
+    text-align: justify;
+    color: #F7F7F7;
+    font-family: "Roboto Condensed";
+    position: absolute;
+    left: 659px;
+    bottom: 140px;
+}
+.color2Label{
+    font-size: 40px;
+    text-align: justify;
+    color: #F7F7F7;
+    font-family: "Roboto Condensed";
+    position: absolute;
+    left:659px;
+    bottom: 100px;
+}
+.color3Label{
+    font-size: 40px;
+    text-align: justify;
+    color: #F7F7F7;
+    font-family: "Roboto Condensed";
+    position: absolute;
+    left:659px;
+    bottom: 60px;
+}
+.idkLabel{
+    font-size: 50px;
+    text-align: justify;
+    color: #F7F7F7;
+    font-family: "Roboto Condensed";
+    position: absolute;
+    bottom: 90px;
+    left: 830px;
+}
